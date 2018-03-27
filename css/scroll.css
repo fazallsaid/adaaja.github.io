@@ -1,0 +1,12 @@
+/*css3 design scrollbar*/
+::-webkit-scrollbar {
+    width: 8px;
+}
+ 
+::-webkit-scrollbar-track {      
+    background: blue;    
+}
+ 
+::-webkit-scrollbar-thumb {
+    background: #232323;
+}
